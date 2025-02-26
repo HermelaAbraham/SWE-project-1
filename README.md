@@ -1,4 +1,4 @@
-# PROJECT TITLE: 
+# PROJECT TITLE: ShareIT
 ## TEAM MEMBERS
 Damodar Dhital
 Hermela Abraham
